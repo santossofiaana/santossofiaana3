@@ -10,4 +10,4 @@ utilizo em aula a plataforma [alura](https.//www.alura.com.br/)
  
 sofia.santos.ana@escola.pr.gov.br
 
-![](https://tenor.com/pt-BR/view/butterfly-blue-flying-gif-15981276)
+![]https://tenor.com/pt-BR/view/butterfly-blue-flying-gif-15981276
